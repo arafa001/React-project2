@@ -1,5 +1,4 @@
-
-function App() {
+function Css() {
   return (
 
     <>
@@ -135,7 +134,7 @@ function App() {
     </div>
   </header>
   <main>
-    Home Page
+    CSS Page
   </main>
   <footer>
     Designed and developed by Courses4Arab.com
@@ -150,4 +149,4 @@ function App() {
   );
 }
 
-export default App;
+export default Css;
