@@ -11,6 +11,9 @@ function App() {
     <h2>
             I am Engineer
     </h2>
+    <h2>
+            I study CyberSecurity
+    </h2>
   
     </>
         
